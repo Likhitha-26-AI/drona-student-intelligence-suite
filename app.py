@@ -156,7 +156,7 @@ def get_ai_response(client, doubt, context, history, turn_count):
         )
     try:
         resp = client.chat_completion(
-            model="mistralai/Mistral-7B-Instruct-v0.3",
+            model="HuggingFaceH4/zephyr-7b-beta",
             messages=[
                 {"role": "system", "content": system},
                 {"role": "user", "content": doubt}
