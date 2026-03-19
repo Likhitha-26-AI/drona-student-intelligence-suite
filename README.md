@@ -227,8 +227,4 @@ DRONA directly mirrors what **Eklavya Solution** is building — India's first i
 ## Author
 
 **Gundavaram Likhitha Rao**
-B.Tech CSE-AIML | SR University, Telangana | GPA: 8.8/10
-
-- GitHub: [github.com/Likhitha-26-AI](https://github.com/Likhitha-26-AI)
-- LinkedIn: [linkedin.com/in/likhitha-rao-gundavaram](https://linkedin.com/in/likhitha-rao-gundavaram)
-- Email: gundavaramlikhitha@gmail.com
+B.Tech CSE-AIML 
