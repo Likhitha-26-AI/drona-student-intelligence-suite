@@ -156,7 +156,7 @@ def get_ai_response(client, doubt, context, history, turn_count):
         )
     try:
         resp = client.chat_completion(
-            model="HuggingFaceH4/zephyr-7b-beta",
+            model="Qwen/Qwen2.5-7B-Instruct",
             messages=[
                 {"role": "system", "content": system},
                 {"role": "user", "content": doubt}
